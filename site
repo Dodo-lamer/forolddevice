@@ -1,0 +1,61 @@
+<html>
+<head>
+<title>ForOldDevice</title>
+</head>
+<body bgcolor=#0066CC>
+<center>
+<table bgcolor=#0066CC">
+<tr height=200>
+<td colspan=2 width=600><center><img src="PICTURES/Снимок.png" align="center" width=70% height=100% VSPACE=5 alt=""></center></td>
+</tr> 
+<tr height=75>
+<td width=200>
+<font color=#FFFFFF><div align="center"><H1></H1></center>
+</td>
+<td width=700>
+
+</td>
+</tr> 
+<tr height=500>
+<td width=200 valign="top">
+<div align="center"><a href="главная.html"><font color=#FFFFFF><b>Home</a></center>
+<br>
+<br>
+<div align="center"><a href="GIF.html"><font color=#FFFFFF><b>GIF-TEST</a></center>
+<br>
+<br>
+<div align="center"><a href="PHOTO.html"><font color=#FFFFFF><b>PHOTO-TEST</a></center>
+<br>
+<br>
+<div align="center"><a href="TABLE.html"><font color=#FFFFFF><b>TABLE-TEST</a></center> 
+<br>
+<br>
+<div align="center"><a href="allin.html"><font color=#FFFFFF><b>All-in test</a></center> 
+</td>
+<td width=700>
+<table>
+<tr height=40>
+<td colspan=3 width=700><font color=#FFFFFF><div align="center"><H2>this site is made for test</H2></center></td>
+</tr>
+<tr height=230>
+<td width=100></td>
+<td width=500><font color=#FFFFFF><div align="center"><H3></H3></center></td>
+<td width=100></td>
+</tr>
+<tr height=230>
+</tr>
+</table>
+</td>
+</tr>
+<tr height=50>
+<td width=200 >
+</td>
+<td width=700>
+<font color=#99CC00><b><div align="center"><H4>Have question or idea? write us: reserveserver@gmail.com</a></H4></center>
+</td>
+</tr> 
+</table>
+</center>
+<br>
+</body>
+</html>
